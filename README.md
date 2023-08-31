@@ -5,3 +5,5 @@ Repo which holds the concepts of JS. Main focus is to help me brush up the conce
 
 ## Topics Covered
 - Call, Bind, Apply
+- Bind Polyfill
+- Closure
